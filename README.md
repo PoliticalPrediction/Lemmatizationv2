@@ -1,5 +1,6 @@
 # Lemmatizationv2
-Firstly, the corpus reader wordnet is imported\n.
+
+Firstly, the corpus reader wordnet is imported.
 WordNetLemmatizer is imported from wordnet.
 Word tokenize as well as parts of speech tag are imported from nltk.
 Default Dictionary is imported from collections.
